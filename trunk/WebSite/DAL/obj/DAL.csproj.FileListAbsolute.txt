@@ -1,0 +1,14 @@
+d:\Visual Studio 2005\Projects\WebSite1\DAL\bin\Debug\DAL.dll
+d:\Visual Studio 2005\Projects\WebSite1\DAL\bin\Debug\DAL.pdb
+d:\Visual Studio 2005\Projects\WebSite1\DAL\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2005\Projects\WebSite1\DAL\obj\Debug\DAL.dll
+d:\Visual Studio 2005\Projects\WebSite1\DAL\obj\Debug\DAL.pdb
+d:\Visual Studio 2005\Projects\WebSite1\DAL\bin\Debug\Model.dll
+d:\Visual Studio 2005\Projects\WebSite1\DAL\bin\Debug\Model.pdb
+E:\项目\WebSite\DAL\bin\Debug\DAL.dll
+E:\项目\WebSite\DAL\bin\Debug\DAL.pdb
+E:\项目\WebSite\DAL\bin\Debug\Model.dll
+E:\项目\WebSite\DAL\bin\Debug\Model.pdb
+E:\项目\WebSite\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\WebSite\DAL\obj\Debug\DAL.dll
+E:\项目\WebSite\DAL\obj\Debug\DAL.pdb

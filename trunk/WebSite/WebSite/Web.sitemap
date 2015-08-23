@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="default.aspx" title="首页"  description="">
+        <siteMapNode url="LanguageManage.aspx" title="语言管理"  description="" />
+        <siteMapNode url="TypeManage.aspx" title="分类管理"  description="" />
+        <siteMapNode url="SysManage.aspx" title="系统管理"  description="" />
+        <siteMapNode url="MenuManage.aspx" title="菜单管理"  description="" />
+    </siteMapNode>
+</siteMap>

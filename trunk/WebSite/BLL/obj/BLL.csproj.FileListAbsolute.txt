@@ -1,0 +1,18 @@
+D:\Visual Studio 2005\Projects\WebSite1\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\BLL.dll
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\BLL.pdb
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\DAL.dll
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\Model.dll
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\Model.pdb
+D:\Visual Studio 2005\Projects\WebSite1\BLL\bin\Debug\DAL.pdb
+D:\Visual Studio 2005\Projects\WebSite1\BLL\obj\Debug\BLL.dll
+D:\Visual Studio 2005\Projects\WebSite1\BLL\obj\Debug\BLL.pdb
+E:\项目\WebSite\BLL\bin\Debug\BLL.dll
+E:\项目\WebSite\BLL\bin\Debug\BLL.pdb
+E:\项目\WebSite\BLL\bin\Debug\DAL.dll
+E:\项目\WebSite\BLL\bin\Debug\Model.dll
+E:\项目\WebSite\BLL\bin\Debug\Model.pdb
+E:\项目\WebSite\BLL\bin\Debug\DAL.pdb
+E:\项目\WebSite\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\WebSite\BLL\obj\Debug\BLL.dll
+E:\项目\WebSite\BLL\obj\Debug\BLL.pdb

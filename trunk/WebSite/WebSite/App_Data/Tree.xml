@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+  <siteMapNode url="LanguageManage.aspx" title="语言管理"  description="" />
+  <siteMapNode url="TypeManage.aspx" title="分类管理"  description="" />
+  <siteMapNode url="SysManage.aspx" title="系统管理"  description="" />
+  <siteMapNode url="MenuManage.aspx" title="菜单管理"  description="" />
+</List>

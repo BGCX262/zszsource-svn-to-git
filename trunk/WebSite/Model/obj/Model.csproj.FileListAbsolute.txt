@@ -1,0 +1,10 @@
+d:\Visual Studio 2005\Projects\WebSite1\Model\bin\Debug\Model.dll
+d:\Visual Studio 2005\Projects\WebSite1\Model\bin\Debug\Model.pdb
+d:\Visual Studio 2005\Projects\WebSite1\Model\obj\Debug\ResolveAssemblyReference.cache
+d:\Visual Studio 2005\Projects\WebSite1\Model\obj\Debug\Model.dll
+d:\Visual Studio 2005\Projects\WebSite1\Model\obj\Debug\Model.pdb
+E:\项目\WebSite\Model\bin\Debug\Model.dll
+E:\项目\WebSite\Model\bin\Debug\Model.pdb
+E:\项目\WebSite\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\WebSite\Model\obj\Debug\Model.dll
+E:\项目\WebSite\Model\obj\Debug\Model.pdb
